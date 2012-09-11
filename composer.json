@@ -1,0 +1,8 @@
+{
+	"name": "tvrdik/foo",
+	"description": "test package",
+	"dist": {
+		"type": "zip",
+		"url": "https:\/\/github.com\/vojtech-dobes\/nette.ajax.js\/zipball\/1.0.1"		
+	}
+}
